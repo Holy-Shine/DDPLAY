@@ -16,7 +16,7 @@
 - 播放控制器已有方向键及确认键逻辑，部分设置及文件页面也有焦点处理；不代表所有页面都可遥控。
 - 支持本地、SMB、WebDAV、FTP 等来源；包含 IJK、ExoPlayer、VLC 相关实现。
 - 原 README 明确部分用户接口关闭；账户、弹幕及其他在线服务的当前可用性未验证。
-- 创建私有远程仓库：`https://github.com/Holy-Shine/DDPLAY`；推送结果以远程分支与 Git 实际状态为准。
+- 已创建私有远程仓库：`https://github.com/Holy-Shine/DDPLAY`，首次源码及交接文档已推送至 `main`，本地 `main` 已跟踪 `origin/main`。
 
 ## 初步推荐方案（尚未确认实施）
 
