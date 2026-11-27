@@ -1,0 +1,26 @@
+# Per-machine development files and generated output
+**/local.properties
+**/keystore.properties
+**/.gradle/
+**/.idea/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Private credentials and signing material
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Local application artifacts
+*.apk
+*.aab
